@@ -1,6 +1,6 @@
 - forge install
 - forge build
-- add alchemy api key to .env
+- add alchemy api key to .env (copy structure fron .env.example)
 - add testnet private key (0x8AFfBdec195700dB11465733146c708af538C0ED) to .env
 - execute scripts for testnets
     - make transfer-ownership-amoy
